@@ -136,9 +136,7 @@ This project demonstrates how **data analysis + statistics + machine learning** 
 ## 🚀 Future Work
 - Train ensemble models (Random Forest, XGBoost) for improved generalization  
 - Combine environmental and soil features into a hybrid production model  
-- Integrate geographic and temporal data  
-- Deploy as a web application (Streamlit / Flask) for farmer-facing recommendations  
-
+  
 ---
 
 ## 🛠️ Tech Stack
